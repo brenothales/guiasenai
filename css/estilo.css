@@ -1,3 +1,12 @@
+header{
+	background: #2f0000;
+    padding-top: 141px;
+    text-align: center;
+    font-size: 19px;
+    background-image: url(https://www.topdata.com.br/media/sao-paulo.jpg);
+    background-size: cover;
+    height: 300px;
+}
 body{
 	background: #fff1D6;
 	font-family: 'Lucida Grande';
